@@ -25,4 +25,4 @@
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex019/seletor01.html"> Executar o Exercício 019</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex020/index.html"> Executar o Exercício 020</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex021/index.html"> Executar o Exercício 021</a>
-- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 022</a>
+- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex022/index.html"> Executar o Exercício 022</a>
