@@ -9,10 +9,11 @@
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex004/index.html"> Executar o Exercício 004</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex005/index.html"> Executar o Exercício 005</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex006/index.html"> Executar o Exercício 006</a>
-- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 007</a>
-- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 008</a>
-- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 009</a>
-- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 010</a>
+- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex007/html5.html"> Executar o Exercício 007</a>
+- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex008/index.html"> Executar o Exercício 008</a>
+- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex008b/index.html"> Executar o Exercício 008b</a>
+- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex009/index.html"> Executar o Exercício 009</a>
+- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex010/index.html"> Executar o Exercício 010</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 011</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 012</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 013</a>
