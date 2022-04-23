@@ -7,8 +7,8 @@
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex002/index.html"> Executar o Exercício 002</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex003/index.html"> Executar o Exercício 003</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex004/index.html"> Executar o Exercício 004</a>
-- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex004/index.html"> Executar o Exercício 005</a>
-- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 006</a>
+- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex005/index.html"> Executar o Exercício 005</a>
+- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex006/index.html"> Executar o Exercício 006</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 007</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 008</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex001/index.html"> Executar o Exercício 009</a>
