@@ -26,6 +26,7 @@
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex020/index.html" target="_blank" rel="next"> Executar o Exercício 020</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex021/index.html" target="_blank" rel="next"> Executar o Exercício 021</a>
 - <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex022/index.html" target="_blank" rel="next"> Executar o Exercício 022</a>
+- <a href="https://srodrigodecastro.github.io/html-css/exercicios/ex023/index.html" target="_blank" rel="next"> Executar o Exercício 023</a>
 
 Acompanhe também os meus desafios:
 - - <a href="https://github.com/srodrigodecastro/html-css/tree/master/desafios" target="_blank" rel="next"> DESAFIOS</a>
